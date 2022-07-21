@@ -234,7 +234,7 @@ footer a i:hover{
     }
 }
 
-@media only screen and (min-width:570px) and (max-width:1260px){
+@media only screen and (min-width:741px) and (max-width:1260px){
     .header-title{
         padding:0%;
     }
@@ -258,6 +258,11 @@ footer a i:hover{
     }
     .articals{
         grid-template-columns: repeat(2, 1fr)
+    }
+     .view-btn{
+        
+        display:block;
+        margin-left: 40%;
     }
 }
 
